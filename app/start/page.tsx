@@ -82,7 +82,7 @@ export default function TypingChallenge() {
   return (
     <>
       <main
-        className="minh-screen lg:max-h-[100vh] "
+        className="min-h-screen lg:max-h-[100vh] "
         style={{
           background:
             "linear-gradient(165deg, #1D0028 5%, #1D0028 60%, rgba(102, 0, 142, 0.7) 100%)",
